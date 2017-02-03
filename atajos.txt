@@ -1,0 +1,6 @@
+(ficha de producto)
+
+article#ArticulosMagicos>div#productos>Figure>img>div#compra>a{compra ahora}>div#infoprod>div#detallesprod>h2>(p*3)>h3#descprod
+
+()
+
